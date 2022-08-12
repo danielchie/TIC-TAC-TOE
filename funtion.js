@@ -28,7 +28,7 @@ let boxes = document.querySelectorAll(".box");
 }
 let controlBtn = document.getElementById("controlBtn")
 controlBtn.addEventListener("click", () =>{
-    window.location.href ="tic.html"
+    window.location.href ="index.html"
 })
 
 
