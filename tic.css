@@ -1,0 +1,67 @@
+body{
+    background-image: url(./men-dancing-digital-art-shapes-wallpaper-thumb.jpg);
+}
+
+
+h1{
+    color: yellow;
+}
+
+.title {
+    width: 500px;
+    margin:auto;
+    text-align: center;
+    border-radius: 7px;
+}
+
+h3 {
+    border: 1px solid white;
+    border-radius: 6px;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    color: red;
+    background-color: turquoise;
+    
+}
+
+.Player{
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-image: linear-gradient(turquoise,blue);
+    margin: 2px;
+    font-size: 77px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 11px;
+    border: 1px solid white;
+}
+
+section{
+   display: flex;
+   justify-content: center;
+   margin: 2px;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}
+
+.restart {
+    padding: 9px;
+    border: 1px solid white;
+    border-radius: 4px;
+    width: auto;
+    height: auto;
+    color: rgb(241, 249, 8);
+    background-image: linear-gradient(45deg,red,blue,green);
+}
